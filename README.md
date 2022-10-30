@@ -8,7 +8,7 @@
  <br>
 <b> Teach BLOCKCHAIN DEVELOPMENT </b>
 
-## Muhammad Babar Hanif's Github Stats
+## Muhammad Amir Hanif's Github Stats
 <span> ![Babar's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadBabarHanif&theme=tokyonight&show_icons=true&count_private=true) </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBabarHanif&theme=tokyonight)</span>
 ### Top Tools & Languages <br>
